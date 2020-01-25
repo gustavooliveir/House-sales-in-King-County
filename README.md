@@ -1,6 +1,6 @@
 # House-sales-in-King-County
 
-Makin' sights from a bunch of raw data
+Makin'sights from a bunch of raw data
 
 ## Instalation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.
