@@ -24,4 +24,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements
 
-Must give credit to Udacity for providing the courses and knowledge to help me enter the field. The dataset used in this project can be found on the Kaggle website by following the link https://www.kaggle.com/harlfoxem/housesalesprediction. Otherwise, feel free to use the code here as you would like! 
+Must give credit to Udacity for providing the courses and knowledge to help me enter the field. 
+The dataset used in this project can be found on the Kaggle website by following the link https://www.kaggle.com/harlfoxem/housesalesprediction. Otherwise, feel free to use the code here as you would like! 
