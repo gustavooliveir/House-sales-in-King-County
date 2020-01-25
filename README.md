@@ -1,6 +1,6 @@
 # House-sales-in-King-County
 
-An analysis of the data using Machine Learning and Descriptive Statistics
+Makin' sights from a bunch of raw data
 
 ## Instalation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.
