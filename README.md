@@ -16,7 +16,7 @@ This project aims to use only the dataset to perform a visualization and obtain 
 
 
 ## Files description
-The files contained in this repository are basically the Jupyter Notebooks where I performed all of the analysis, some pictures used for writing my blog post and the dataset itself, obtained from Kaggle.
+The files contained in this repository are basically the Jupyter Notebooks where I performed all of the analysis, a license, a folder containing some pictures used for writing my blog post and the dataset itself, obtained from Kaggle.
 
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@gugmt15/making-sights-from-a-bunch-of-raw-data-a25c37db8901).
